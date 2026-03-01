@@ -1,0 +1,10 @@
+# Ignore Qt build folders
+build/
+CMakeLists.txt.user
+
+# Ignore macOS hidden files
+.DS_Store
+
+# Ignore Xcode specific user data
+xcuserdata/
+*.xcworkspace/
